@@ -1,0 +1,201 @@
+Patient_ID,Admission_Date,Discharge_Date,Disease,Age,Gender,Department,Length_of_Stay,Billing_Amount_INR,Age_Group,Admission_Month,Admission_Year
+PID0001,2023-10-09,2023-10-17,fracture,29,Male,Orthopedics,8,153367.0,Young Adult,10,2023
+PID0002,2024-03-08,2024-03-10,hip replacement,4,Male,Orthopedics,2,65608.55,Child,3,2024
+PID0003,2023-07-23,2023-08-15,myocardial infarction,84,Female,Cardiology,23,109934.23,Senior,7,2023
+PID0004,2024-03-08,2024-03-19,heart failure,36,Male,Cardiology,11,93328.32,Young Adult,3,2024
+PID0005,2024-01-25,2024-01-29,fracture,46,Female,Orthopedics,4,127633.12,Adult,1,2024
+PID0006,2023-05-08,2023-06-07,pneumonia,49,Male,Pulmonology,30,122646.31,Adult,5,2023
+PID0007,2023-07-16,2023-08-08,anaphylaxis,9,Male,Emergency,23,110944.07,Child,7,2023
+PID0008,2023-04-14,2023-04-27,osteoarthritis,36,Female,Orthopedics,13,141444.05,Young Adult,4,2023
+PID0009,2023-08-03,2023-08-25,severe burns,35,Male,Emergency,22,88894.2,Young Adult,8,2023
+PID0010,2024-04-18,2024-05-01,lung cancer,35,Male,Oncology,13,322625.05,Young Adult,4,2024
+PID0011,2023-02-02,2023-02-28,heart failure,41,Female,Cardiology,26,110221.2,Adult,2,2023
+PID0012,2024-11-02,2024-11-18,poisoning,51,Female,Emergency,16,42624.99,Adult,11,2024
+PID0013,2024-03-14,2024-04-12,appendicitis,13,Female,Pediatrics,29,78880.35,Child,3,2024
+PID0014,2023-02-18,2023-03-18,copd,15,Male,Pulmonology,28,124738.9,Child,2,2023
+PID0015,2023-03-07,2023-03-20,gerd,49,Female,Gastroenterology,13,98460.26,Adult,3,2023
+PID0016,2024-11-29,2024-12-28,hypertension,69,Female,Cardiology,29,198013.9,Senior,11,2024
+PID0017,2023-06-11,2023-06-26,typhoid,1,Female,Pediatrics,15,84309.72,Child,6,2023
+PID0018,2024-10-16,2024-11-02,spinal stenosis,78,Male,Orthopedics,17,82081.11,Senior,10,2024
+PID0019,2023-11-28,2023-12-14,myocardial infarction,3,Male,Cardiology,16,218327.24,Child,11,2023
+PID0020,2023-03-01,2023-03-09,pneumonia,3,Male,Pediatrics,8,60829.2,Child,3,2023
+PID0021,2024-11-06,2024-11-22,epilepsy,71,Male,Neurology,16,87682.79,Senior,11,2024
+PID0022,2024-07-06,2024-07-31,crohn's disease,26,Female,Gastroenterology,25,100049.84,Young Adult,7,2024
+PID0023,2024-06-13,2024-06-28,polytrauma,16,Male,Emergency,15,52184.81,Child,6,2024
+PID0024,2023-08-14,2023-08-15,lymphoma,10,Male,Oncology,1,155147.87,Child,8,2023
+PID0025,2024-06-10,2024-06-18,trauma,36,Female,Emergency,8,40880.32,Young Adult,6,2024
+PID0026,2024-04-29,2024-05-25,tuberculosis,53,Male,Pulmonology,26,68038.24,Adult,4,2024
+PID0027,2024-02-25,2024-03-11,polytrauma,7,Male,Emergency,15,45259.92,Child,2,2024
+PID0028,2023-07-16,2023-07-23,osteoarthritis,69,Female,Orthopedics,7,58168.64,Senior,7,2023
+PID0029,2023-03-19,2023-04-03,tuberculosis,71,Male,Pulmonology,15,52641.21,Senior,3,2023
+PID0030,2023-08-31,2023-09-06,hypertension,53,Female,Cardiology,6,128042.83,Adult,8,2023
+PID0031,2024-01-24,2024-01-25,heart failure,50,Female,Cardiology,1,189985.05,Adult,1,2024
+PID0032,2024-07-23,2024-08-14,typhoid,16,Male,Pediatrics,22,42842.2,Child,7,2024
+PID0033,2024-07-09,2024-07-11,myocardial infarction,41,Male,Cardiology,2,50767.07,Adult,7,2024
+PID0034,2024-06-04,2024-06-07,stroke,24,Male,Neurology,3,104210.15,Young Adult,6,2024
+PID0035,2023-05-03,2023-06-01,leukemia,73,Male,Oncology,29,289837.11,Senior,5,2023
+PID0036,2024-11-04,2024-11-23,ligament tear,73,Female,Orthopedics,19,190063.05,Senior,11,2024
+PID0037,2023-09-29,2023-10-12,poisoning,17,Female,Emergency,13,78756.77,Child,9,2023
+PID0038,2024-04-14,2024-05-04,fracture,73,Male,Orthopedics,20,62104.81,Senior,4,2024
+PID0039,2023-12-24,2024-01-22,pneumonia,3,Male,Pediatrics,29,57165.94,Child,12,2023
+PID0040,2024-10-31,2024-11-17,appendicitis,1,Female,Pediatrics,17,72300.97,Child,10,2024
+PID0041,2023-04-29,2023-05-28,migraine,14,Male,Neurology,29,103291.6,Child,4,2023
+PID0042,2024-10-11,2024-11-08,poisoning,34,Female,Emergency,28,89259.45,Young Adult,10,2024
+PID0043,2024-10-11,2024-10-25,hypertension,36,Male,Cardiology,14,64722.11,Young Adult,10,2024
+PID0044,2024-03-28,2024-04-15,pneumonia,14,Male,Pediatrics,18,50406.79,Child,3,2024
+PID0045,2023-02-06,2023-03-05,multiple sclerosis,48,Male,Neurology,27,101678.59,Adult,2,2023
+PID0046,2024-01-02,2024-01-09,trauma,32,Male,Emergency,7,55365.71,Young Adult,1,2024
+PID0047,2023-06-08,2023-07-08,gerd,31,Male,Gastroenterology,30,170808.39,Young Adult,6,2023
+PID0048,2023-07-03,2023-07-27,peptic ulcer,43,Female,Gastroenterology,24,144308.56,Adult,7,2023
+PID0049,2023-06-13,2023-07-09,colorectal cancer,14,Female,Oncology,26,406681.48,Child,6,2023
+PID0050,2024-04-16,2024-04-28,lung cancer,40,Male,Oncology,12,170440.01,Adult,4,2024
+PID0051,2023-10-13,2023-11-10,liver cirrhosis,9,Female,Gastroenterology,28,94630.64,Child,10,2023
+PID0052,2023-04-29,2023-05-28,trauma,34,Male,Emergency,29,121777.69,Young Adult,4,2023
+PID0053,2024-09-02,2024-09-16,hypertension,45,Female,Cardiology,14,137558.18,Adult,9,2024
+PID0054,2024-08-13,2024-08-20,ligament tear,33,Male,Orthopedics,7,141932.0,Young Adult,8,2024
+PID0055,2024-03-17,2024-03-20,colorectal cancer,43,Female,Oncology,3,295132.64,Adult,3,2024
+PID0056,2023-11-13,2023-12-05,appendicitis,14,Female,Pediatrics,22,55525.32,Child,11,2023
+PID0057,2024-03-06,2024-03-28,epilepsy,49,Male,Neurology,22,127484.44,Adult,3,2024
+PID0058,2023-10-21,2023-10-28,coronary artery disease,56,Female,Cardiology,7,123712.25,Adult,10,2023
+PID0059,2024-04-29,2024-05-25,lymphoma,22,Male,Oncology,26,212323.89,Young Adult,4,2024
+PID0060,2023-08-29,2023-09-20,trauma,40,Male,Emergency,22,105047.99,Adult,8,2023
+PID0061,2024-05-01,2024-05-21,heart failure,10,Female,Cardiology,20,137424.93,Child,5,2024
+PID0062,2024-05-21,2024-06-03,leukemia,32,Male,Oncology,13,300425.06,Young Adult,5,2024
+PID0063,2023-08-13,2023-08-19,ligament tear,67,Female,Orthopedics,6,44126.99,Senior,8,2023
+PID0064,2023-05-17,2023-06-12,ligament tear,60,Female,Orthopedics,26,221118.43,Senior,5,2023
+PID0065,2024-04-01,2024-04-30,gerd,21,Female,Gastroenterology,29,114368.81,Young Adult,4,2024
+PID0066,2024-05-11,2024-06-01,appendicitis,8,Female,Pediatrics,21,66774.96,Child,5,2024
+PID0067,2023-12-10,2023-12-21,colorectal cancer,70,Male,Oncology,11,136132.35,Senior,12,2023
+PID0068,2023-03-07,2023-03-21,epilepsy,53,Female,Neurology,14,111011.4,Adult,3,2023
+PID0069,2024-02-03,2024-03-03,leukemia,75,Male,Oncology,29,403996.94,Senior,2,2024
+PID0070,2023-01-07,2023-01-19,pancreatitis,39,Female,Gastroenterology,12,128674.19,Young Adult,1,2023
+PID0071,2024-07-13,2024-08-08,gerd,78,Male,Gastroenterology,26,98138.53,Senior,7,2024
+PID0072,2024-02-03,2024-02-14,copd,52,Male,Pulmonology,11,116264.47,Adult,2,2024
+PID0073,2024-08-29,2024-09-17,arrhythmia,85,Male,Cardiology,19,78403.97,Senior,8,2024
+PID0074,2023-02-21,2023-03-02,tuberculosis,49,Female,Pulmonology,9,48202.68,Adult,2,2023
+PID0075,2024-03-07,2024-03-16,liver cirrhosis,11,Female,Gastroenterology,9,34964.05,Child,3,2024
+PID0076,2024-10-27,2024-10-30,poisoning,84,Male,Emergency,3,84928.42,Senior,10,2024
+PID0077,2024-09-28,2024-10-03,breast cancer,31,Male,Oncology,5,236225.88,Young Adult,9,2024
+PID0078,2023-09-20,2023-10-15,leukemia,48,Male,Oncology,25,322797.7,Adult,9,2023
+PID0079,2023-11-15,2023-11-19,osteoarthritis,75,Male,Orthopedics,4,175296.9,Senior,11,2023
+PID0080,2023-07-23,2023-07-26,pancreatitis,76,Male,Gastroenterology,3,35371.06,Senior,7,2023
+PID0081,2023-02-12,2023-02-24,hip replacement,69,Female,Orthopedics,12,139821.18,Senior,2,2023
+PID0082,2024-03-06,2024-04-02,trauma,63,Male,Emergency,27,85184.38,Senior,3,2024
+PID0083,2024-03-21,2024-03-27,tuberculosis,67,Female,Pulmonology,6,86085.18,Senior,3,2024
+PID0084,2024-03-22,2024-04-18,pulmonary embolism,76,Female,Pulmonology,27,77206.07,Senior,3,2024
+PID0085,2024-04-06,2024-04-14,spinal stenosis,60,Female,Orthopedics,8,91604.84,Senior,4,2024
+PID0086,2024-05-14,2024-05-21,poisoning,46,Female,Emergency,7,56923.49,Adult,5,2024
+PID0087,2023-01-11,2023-01-28,appendicitis,7,Male,Pediatrics,17,43958.94,Child,1,2023
+PID0088,2024-10-23,2024-11-15,leukemia,63,Female,Oncology,23,354706.79,Senior,10,2024
+PID0089,2023-09-07,2023-09-17,leukemia,85,Female,Oncology,10,245814.42,Senior,9,2023
+PID0090,2023-12-05,2023-12-17,gerd,59,Female,Gastroenterology,12,63582.05,Adult,12,2023
+PID0091,2023-05-03,2023-05-27,colorectal cancer,69,Male,Oncology,24,181764.93,Senior,5,2023
+PID0092,2024-06-21,2024-07-11,appendicitis,10,Male,Pediatrics,20,74741.33,Child,6,2024
+PID0093,2023-11-06,2023-11-07,poisoning,69,Male,Emergency,1,40285.62,Senior,11,2023
+PID0094,2024-10-15,2024-11-12,pneumonia,16,Male,Pediatrics,28,95324.54,Child,10,2024
+PID0095,2024-03-27,2024-04-07,pulmonary embolism,24,Male,Pulmonology,11,61402.76,Young Adult,3,2024
+PID0096,2024-02-15,2024-03-02,fracture,10,Male,Orthopedics,16,81132.98,Child,2,2024
+PID0097,2023-09-12,2023-09-16,asthma,14,Male,Pediatrics,4,53810.49,Child,9,2023
+PID0098,2024-08-25,2024-09-08,asthma,40,Male,Pulmonology,14,97719.54,Adult,8,2024
+PID0099,2023-09-28,2023-10-20,lung cancer,11,Male,Oncology,22,188929.45,Child,9,2023
+PID0100,2024-02-23,2024-03-09,stroke,77,Female,Neurology,15,77573.98,Senior,2,2024
+PID0101,2023-03-14,2023-04-05,typhoid,8,Female,Pediatrics,22,83492.93,Child,3,2023
+PID0102,2023-04-28,2023-05-16,leukemia,29,Male,Oncology,18,402946.9,Young Adult,4,2023
+PID0103,2023-06-19,2023-07-15,fracture,40,Female,Orthopedics,26,131296.39,Adult,6,2023
+PID0104,2023-10-06,2023-10-23,typhoid,16,Female,Pediatrics,17,28435.25,Child,10,2023
+PID0105,2024-09-10,2024-09-19,liver cirrhosis,4,Male,Gastroenterology,9,57374.86,Child,9,2024
+PID0106,2024-08-13,2024-08-15,coronary artery disease,23,Female,Cardiology,2,125695.57,Young Adult,8,2024
+PID0107,2024-08-22,2024-09-05,pneumonia,16,Male,Pediatrics,14,51560.77,Child,8,2024
+PID0108,2023-06-14,2023-06-25,trauma,53,Female,Emergency,11,60775.07,Adult,6,2023
+PID0109,2023-04-01,2023-04-12,arrhythmia,33,Female,Cardiology,11,77545.09,Young Adult,4,2023
+PID0110,2024-04-18,2024-05-02,myocardial infarction,7,Male,Cardiology,14,144610.55,Child,4,2024
+PID0111,2023-02-22,2023-03-01,pulmonary embolism,35,Male,Pulmonology,7,112626.07,Young Adult,2,2023
+PID0112,2023-01-30,2023-02-20,copd,78,Male,Pulmonology,21,107930.92,Senior,1,2023
+PID0113,2024-02-22,2024-02-25,myocardial infarction,29,Male,Cardiology,3,116654.54,Young Adult,2,2024
+PID0114,2023-10-26,2023-11-12,parkinson's disease,35,Female,Neurology,17,162937.48,Young Adult,10,2023
+PID0115,2024-07-18,2024-07-23,leukemia,50,Male,Oncology,5,382047.25,Adult,7,2024
+PID0116,2023-10-10,2023-11-04,stroke,54,Female,Neurology,25,177013.18,Adult,10,2023
+PID0117,2023-11-02,2023-11-29,coronary artery disease,76,Female,Cardiology,27,214509.83,Senior,11,2023
+PID0118,2023-12-07,2023-12-25,asthma,70,Female,Pulmonology,18,81242.1,Senior,12,2023
+PID0119,2024-08-08,2024-08-21,lung cancer,30,Female,Oncology,13,115984.54,Young Adult,8,2024
+PID0120,2024-11-10,2024-12-06,pancreatitis,84,Male,Gastroenterology,26,91487.88,Senior,11,2024
+PID0121,2024-03-26,2024-03-30,trauma,68,Female,Emergency,4,20196.49,Senior,3,2024
+PID0122,2024-04-25,2024-05-21,stroke,34,Female,Neurology,26,136108.9,Young Adult,4,2024
+PID0123,2024-11-21,2024-12-19,spinal stenosis,69,Female,Orthopedics,28,216581.39,Senior,11,2024
+PID0124,2023-02-06,2023-02-26,pneumonia,9,Male,Pulmonology,20,114169.11,Child,2,2023
+PID0125,2024-03-20,2024-03-24,breast cancer,82,Male,Oncology,4,228508.34,Senior,3,2024
+PID0126,2023-11-29,2023-12-25,hypertension,8,Female,Cardiology,26,131591.56,Child,11,2023
+PID0127,2024-02-26,2024-03-16,lymphoma,24,Male,Oncology,19,165118.61,Young Adult,2,2024
+PID0128,2024-11-30,2024-12-08,gerd,64,Male,Gastroenterology,8,55742.73,Senior,11,2024
+PID0129,2024-11-13,2024-11-14,asthma,60,Female,Pulmonology,1,81329.77,Senior,11,2024
+PID0130,2024-08-24,2024-09-03,asthma,82,Female,Pulmonology,10,94990.87,Senior,8,2024
+PID0131,2024-01-29,2024-02-26,pneumonia,16,Male,Pediatrics,28,63476.89,Child,1,2024
+PID0132,2023-01-23,2023-02-19,dengue fever,13,Female,Pediatrics,27,60033.08,Child,1,2023
+PID0133,2024-05-23,2024-06-19,myocardial infarction,37,Male,Cardiology,27,170145.6,Young Adult,5,2024
+PID0134,2023-09-14,2023-10-06,lymphoma,85,Male,Oncology,22,322489.25,Senior,9,2023
+PID0135,2024-03-27,2024-03-29,coronary artery disease,75,Female,Cardiology,2,158993.88,Senior,3,2024
+PID0136,2024-03-01,2024-03-07,dengue fever,7,Male,Pediatrics,6,60436.16,Child,3,2024
+PID0137,2024-05-28,2024-06-27,anaphylaxis,35,Male,Emergency,30,90531.29,Young Adult,5,2024
+PID0138,2023-12-13,2024-01-08,asthma,15,Female,Pulmonology,26,131777.8,Child,12,2023
+PID0139,2024-07-24,2024-08-05,leukemia,12,Female,Oncology,12,101780.61,Child,7,2024
+PID0140,2024-11-19,2024-12-13,asthma,34,Female,Pulmonology,24,139942.8,Young Adult,11,2024
+PID0141,2024-04-27,2024-04-28,osteoarthritis,80,Female,Orthopedics,1,168354.03,Senior,4,2024
+PID0142,2023-11-06,2023-11-27,ligament tear,53,Male,Orthopedics,21,91612.34,Adult,11,2023
+PID0143,2023-04-29,2023-05-03,typhoid,8,Male,Pediatrics,4,34413.15,Child,4,2023
+PID0144,2023-06-08,2023-07-07,gerd,54,Male,Gastroenterology,29,147994.01,Adult,6,2023
+PID0145,2024-01-15,2024-01-22,asthma,15,Female,Pediatrics,7,70313.54,Child,1,2024
+PID0146,2024-07-11,2024-08-09,spinal stenosis,83,Female,Orthopedics,29,71883.19,Senior,7,2024
+PID0147,2023-04-04,2023-04-26,ligament tear,28,Male,Orthopedics,22,63991.42,Young Adult,4,2023
+PID0148,2023-07-30,2023-08-02,multiple sclerosis,71,Male,Neurology,3,103624.88,Senior,7,2023
+PID0149,2023-06-01,2023-06-27,colorectal cancer,77,Male,Oncology,26,220229.63,Senior,6,2023
+PID0150,2023-09-14,2023-10-10,multiple sclerosis,23,Male,Neurology,26,129236.55,Young Adult,9,2023
+PID0151,2023-09-01,2023-09-20,coronary artery disease,42,Male,Cardiology,19,84274.09,Adult,9,2023
+PID0152,2023-04-27,2023-05-21,gerd,9,Female,Gastroenterology,24,94454.24,Child,4,2023
+PID0153,2024-05-30,2024-06-07,ligament tear,79,Male,Orthopedics,8,154210.47,Senior,5,2024
+PID0154,2024-10-20,2024-10-21,typhoid,2,Female,Pediatrics,1,53676.46,Child,10,2024
+PID0155,2024-03-30,2024-04-02,ligament tear,11,Female,Orthopedics,3,123881.07,Child,3,2024
+PID0156,2024-10-10,2024-10-29,appendicitis,11,Female,Pediatrics,19,87028.08,Child,10,2024
+PID0157,2024-09-11,2024-09-25,pneumonia,13,Male,Pulmonology,14,118592.33,Child,9,2024
+PID0158,2024-04-07,2024-05-06,leukemia,30,Female,Oncology,29,227439.88,Young Adult,4,2024
+PID0159,2023-11-17,2023-12-01,peptic ulcer,41,Female,Gastroenterology,14,71194.44,Adult,11,2023
+PID0160,2023-04-04,2023-05-01,copd,11,Male,Pulmonology,27,103457.32,Child,4,2023
+PID0161,2024-07-23,2024-07-25,poisoning,76,Female,Emergency,2,74537.07,Senior,7,2024
+PID0162,2023-10-22,2023-11-11,peptic ulcer,40,Female,Gastroenterology,20,58537.96,Adult,10,2023
+PID0163,2023-08-18,2023-09-15,parkinson's disease,14,Female,Neurology,28,165421.73,Child,8,2023
+PID0164,2023-08-20,2023-09-15,appendicitis,14,Male,Pediatrics,26,81774.08,Child,8,2023
+PID0165,2023-07-04,2023-07-13,asthma,10,Female,Pediatrics,9,36710.35,Child,7,2023
+PID0166,2024-11-04,2024-11-17,multiple sclerosis,9,Male,Neurology,13,143181.37,Child,11,2024
+PID0167,2023-08-09,2023-08-22,hip replacement,54,Female,Orthopedics,13,97307.23,Adult,8,2023
+PID0168,2024-09-02,2024-09-05,anaphylaxis,7,Male,Emergency,3,33004.06,Child,9,2024
+PID0169,2024-03-29,2024-04-20,spinal stenosis,55,Female,Orthopedics,22,149595.85,Adult,3,2024
+PID0170,2023-04-27,2023-05-09,lymphoma,56,Male,Oncology,12,190009.07,Adult,4,2023
+PID0171,2024-11-14,2024-11-24,pneumonia,6,Male,Pulmonology,10,69556.13,Child,11,2024
+PID0172,2023-11-05,2023-11-12,heart failure,18,Female,Cardiology,7,92919.41,Young Adult,11,2023
+PID0173,2023-06-29,2023-07-04,pulmonary embolism,49,Male,Pulmonology,5,73024.26,Adult,6,2023
+PID0174,2024-02-11,2024-03-10,trauma,6,Female,Emergency,28,69944.09,Child,2,2024
+PID0175,2024-03-15,2024-04-03,anaphylaxis,52,Female,Emergency,19,64043.53,Adult,3,2024
+PID0176,2024-09-24,2024-10-09,poisoning,47,Male,Emergency,15,66026.04,Adult,9,2024
+PID0177,2024-02-15,2024-03-03,gerd,11,Female,Gastroenterology,17,135866.86,Child,2,2024
+PID0178,2023-06-22,2023-06-25,colorectal cancer,66,Male,Oncology,3,252891.6,Senior,6,2023
+PID0179,2024-10-22,2024-11-18,severe burns,19,Male,Emergency,27,53631.76,Young Adult,10,2024
+PID0180,2023-06-06,2023-07-01,multiple sclerosis,84,Male,Neurology,25,90328.71,Senior,6,2023
+PID0181,2024-07-31,2024-08-25,pulmonary embolism,75,Female,Pulmonology,25,127125.72,Senior,7,2024
+PID0182,2023-06-04,2023-06-19,severe burns,9,Female,Emergency,15,70038.45,Child,6,2023
+PID0183,2023-02-27,2023-03-11,appendicitis,17,Male,Pediatrics,12,41627.95,Child,2,2023
+PID0184,2023-10-21,2023-10-24,coronary artery disease,83,Male,Cardiology,3,142626.79,Senior,10,2023
+PID0185,2024-07-21,2024-08-16,pneumonia,6,Female,Pulmonology,26,140268.28,Child,7,2024
+PID0186,2024-09-11,2024-09-27,colorectal cancer,65,Male,Oncology,16,407921.2,Senior,9,2024
+PID0187,2024-05-31,2024-06-21,trauma,23,Male,Emergency,21,63889.73,Young Adult,5,2024
+PID0188,2024-06-19,2024-07-09,pneumonia,21,Female,Pulmonology,20,75091.83,Young Adult,6,2024
+PID0189,2024-11-26,2024-12-16,liver cirrhosis,7,Female,Gastroenterology,20,44859.33,Child,11,2024
+PID0190,2023-09-16,2023-10-10,liver cirrhosis,85,Male,Gastroenterology,24,89319.1,Senior,9,2023
+PID0191,2023-11-14,2023-12-05,migraine,85,Female,Neurology,21,75781.57,Senior,11,2023
+PID0192,2024-07-26,2024-08-08,spinal stenosis,83,Female,Orthopedics,13,172831.53,Senior,7,2024
+PID0193,2024-06-04,2024-06-16,ligament tear,3,Female,Orthopedics,12,99626.75,Child,6,2024
+PID0194,2023-07-16,2023-07-24,polytrauma,18,Male,Emergency,8,36065.54,Young Adult,7,2023
+PID0195,2024-07-06,2024-08-02,hip replacement,68,Male,Orthopedics,27,179284.51,Senior,7,2024
+PID0196,2024-01-21,2024-01-26,multiple sclerosis,21,Male,Neurology,5,137544.72,Young Adult,1,2024
+PID0197,2023-02-14,2023-02-28,parkinson's disease,47,Male,Neurology,14,167656.58,Adult,2,2023
+PID0198,2024-06-30,2024-07-08,tuberculosis,40,Female,Pulmonology,8,109428.19,Adult,6,2024
+PID0199,2023-10-16,2023-11-10,pulmonary embolism,49,Female,Pulmonology,25,151403.41,Adult,10,2023
+PID0200,2023-02-23,2023-03-16,migraine,62,Female,Neurology,21,113702.85,Senior,2,2023
