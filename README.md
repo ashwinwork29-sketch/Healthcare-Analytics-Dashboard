@@ -16,7 +16,7 @@ This project is a Power BI dashboard designed to analyze hospital data and provi
 - Disease trend analysis
 
 ## 📸 Dashboard Preview
-![Dashboard](images/Hospital Data Dashboard.png)
+![Dashboard](images/Dashboard.png)
 
 ## 🧠 Key Insights
 - Senior patients have higher average billing
